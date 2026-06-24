@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-06-22",
+  "generatedAt": "2026-06-23T13:51:49.050Z",
+  "tracks": [
+    {
+      "name": "Whilton Mill",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "52.500s",
+          "context": "Round 1 - Whilton Mill",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/364945/s/755063"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "48.250s",
+          "context": "Round 1 - Whilton Mill",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/364945/s/755056"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "45.660s",
+          "context": "Round 1 - Whilton Mill",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/364945/s/755053"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "44.690s",
+          "context": "Round 1 - Whilton Mill",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/364945/s/755054"
+        }
+      ]
+    },
+    {
+      "name": "PF International",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "1:04.080",
+          "context": "TKC Round 2 PFI",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/370364/s/764691"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "1:00.360",
+          "context": "TKC Round 2 PFI",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/370364/s/764657"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "57.380s",
+          "context": "TKC Round 2 PFI",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/370364/s/764719"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "56.300s",
+          "context": "TKC Round 2 PFI",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/370364/s/764659"
+        }
+      ]
+    },
+    {
+      "name": "Glan-y-Gors",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "47.920s",
+          "context": "TKC 2025 Championship RD3 GYG",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/280633/s/591202"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "44.440s",
+          "context": "TKC 2025 Championship RD3 GYG",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/280633/s/591200"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "42.240s",
+          "context": "TKC 2025 Championship RD3 GYG",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/280633/s/591201"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "41.510s",
+          "context": "TKC 2025 Championship RD3 GYG",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/280633/s/591197"
+        }
+      ]
+    },
+    {
+      "name": "Larkhall",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "56.600s",
+          "context": "Round 2 Larkhall Race",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/282239/s/596886"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "52.000s",
+          "context": "Round 2 Larkhall Race",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/282239/s/596887"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "49.640s",
+          "context": "Round 2 Larkhall Race",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/282239/s/598066"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "48.890s",
+          "context": "Round 2 Larkhall Race",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/282239/s/598068"
+        }
+      ]
+    },
+    {
+      "name": "Rowrah",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "52.804s",
+          "context": "Rowrah Round 2, 05/04/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/366458/s/757527"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "50.902s",
+          "context": "Rowrah Round 2, 05/04/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/366458/s/757509"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "47.088s",
+          "context": "Rowrah Round 2, 05/04/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/366458/s/757999"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "45.585s",
+          "context": "Rowrah Round 2, 05/04/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/366458/s/758024"
+        }
+      ]
+    },
+    {
+      "name": "Shenington",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "49.630s",
+          "context": "Shenington Round 12, 25/08/2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/216680/s/473386"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "45.658s",
+          "context": "Shenington Round 12, 25/08/2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/216680/s/473637"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "43.376s",
+          "context": "Shenington Round 12, 25/08/2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/216680/s/473193"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "42.514s",
+          "context": "Shenington Round 12, 25/08/2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/216680/s/473190"
+        }
+      ]
+    },
+    {
+      "name": "Kimbolton",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "46.892s",
+          "context": "Round 2 - Kimbolton",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/375296/s/776257"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "43.339s",
+          "context": "Round 2 - Kimbolton",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/375296/s/776255"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "40.583s",
+          "context": "Round 2 - Kimbolton",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/375296/s/776264"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "39.796s",
+          "context": "Round 2 - Kimbolton",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/375296/s/776253"
+        }
+      ]
+    },
+    {
+      "name": "Buckmore Park",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "44.743s",
+          "context": "Buckmore Park - Summer Champs - Round 6, 12/10/2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/mvkc/e/325656/s/680888"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "40.858s",
+          "context": "Buckmore Park - Summer Champs - Round 3, 08/06/2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/mvkc/e/287666/s/605609"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "38.809s",
+          "context": "MVKC Buckmore Park Summer Champs Round 2 Junior MAX timed qualifying, May 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/mvkc/e/280004/s/590020"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "38.352s",
+          "context": "Buckmore Park - Summer Champs - Round 6, 12/10/2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/mvkc/e/325656/s/680910"
+        }
+      ]
+    },
+    {
+      "name": "Rissington",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "48.820s",
+          "context": "Rissington KC combined Honda Cadet / Rotax Micro Cadet / IAME Cadet WSR final, May 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rkc/e/277901"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "42.230s",
+          "context": "Rissington KC Junior Max result within X30 Junior / Junior Max heat 3, May 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rkc/e/277901/s/585567"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "40.980s",
+          "context": "Rissington KC combined Senior Rotax / X30 Senior heat 2, May 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rkc/e/277901"
+        }
+      ]
+    },
+    {
+      "name": "Clay Pigeon Raceway",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "40.789s",
+          "context": "IKR Round 2 qualifying, October 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/clay/e/191356/s/422962"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "37.091s",
+          "context": "IKR Round 2 qualifying, October 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/clay/e/191356/s/422963"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "34.358s",
+          "context": "IKR Main Series qualifying, June 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/clay/e/292152/s/614506"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "34.297s",
+          "context": "IKR Main Series qualifying, June 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/clay/e/292152/s/614508"
+        }
+      ]
+    },
+    {
+      "name": "Fulbeck",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "50.612s",
+          "context": "Super One Fulbeck Round 8 qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/202515"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "47.148s",
+          "context": "Super One Fulbeck Round 8 qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/202515"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "44.974s",
+          "context": "Super One Fulbeck Round 8 qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/202515"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "44.230s",
+          "context": "Super One Fulbeck Round 8 qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/superone/e/202515"
+        }
+      ]
+    },
+    {
+      "name": "Three Sisters",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "49.070s",
+          "context": "UKC Round 4 qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/206497"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "45.630s",
+          "context": "UKC Round 4 Mini Inter qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/206497"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "42.550s",
+          "context": "UKC Round 4 Junior Rotax qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/206497"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "41.460s",
+          "context": "UKC Round 4 Senior Rotax qualifying, July 2024",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/206497"
+        }
+      ]
+    },
+    {
+      "name": "Hooton Park",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "41.287s",
+          "context": "Indikart Championship Round 5, 21/06/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/hootonik/e/386918/s/802370"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "37.409s",
+          "context": "Indikart Championship Round 5, 21/06/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/hootonik/e/386918/s/802347"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "34.785s",
+          "context": "Indikart Championship Round 5, 21/06/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/hootonik/e/386918/s/802356"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "34.442s",
+          "context": "Indikart Championship Round 5, 21/06/2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/hootonik/e/386918/s/802359"
+        }
+      ]
+    },
+    {
+      "name": "Warden Law",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "56.240s",
+          "context": "UKC Round 5 qualifying, August 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/308405/s/645357"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "52.340s",
+          "context": "UKC Round 5 Mini Inter qualifying, August 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/308405/s/645358"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "49.600s",
+          "context": "UKC Round 5 Junior Rotax qualifying, August 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/308405"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "48.630s",
+          "context": "UKC Round 5 Senior Rotax qualifying, August 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/308405"
+        }
+      ]
+    },
+    {
+      "name": "Silverstone",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": []
+    },
+    {
+      "name": "Lydd",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Junior Max / Mini Max",
+          "lapTime": "40.170s",
+          "context": "LIKC Winter Series Round 3 timed qualifying, January 2020",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/likc/e/8812"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "38.850s",
+          "context": "LIKC Winter Series Round 3 timed qualifying, January 2020",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/likc/e/8812"
+        }
+      ]
+    },
+    {
+      "name": "Ellough Park",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "49.785s",
+          "context": "Cadet Kart Championship Round 8 practice, October 2022",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/cadetkartchamp/e/93103"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "45.175s",
+          "context": "Cadet Kart Championship Round 8 practice, October 2022",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/cadetkartchamp/e/93103"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "45.320s",
+          "context": "Cadet Kart Championship Round 8 JKC Rotax heat 3, October 2022",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/cadetkartchamp/e/93103"
+        }
+      ]
+    },
+    {
+      "name": "Bayford Meadows",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "53.050s",
+          "context": "BMKR BM Plate practice / qualifying, January 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bmkr/e/252455"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "48.230s",
+          "context": "BMKR BM Plate Rotax Inter practice / qualifying, January 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bmkr/e/252455"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "46.500s",
+          "context": "BMKR BM Plate Junior Rotax practice / qualifying, January 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bmkr/e/252455"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "45.300s",
+          "context": "BMKR BM Plate Senior Rotax practice / qualifying, January 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bmkr/e/252455"
+        }
+      ]
+    },
+    {
+      "name": "Llandow",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "48.881s",
+          "context": "TKC RD3 Llandow MicroMAX heat 3, May 2023",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/126156"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "45.318s",
+          "context": "TKC RD3 Llandow MiniMAX heat 2, May 2023",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/126156"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "44.298s",
+          "context": "TKC RD3 Llandow Junior Rotax heat 1, May 2023",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/bkc/e/126156"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "49.161s",
+          "context": "UKC Rotax National Trophy Senior Rotax practice 3 at Llandow, September 2022",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/91122/s/229019"
+        }
+      ]
+    },
+    {
+      "name": "Rye House",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "39.429s",
+          "context": "RHKC Round 3 timed qualifying, April 2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rhkc/e/371149"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "37.648s",
+          "context": "RHKC Round 3 Inter Rotax timed qualifying, April 2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rhkc/e/371149"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "35.369s",
+          "context": "RHKC Round 3 Junior Rotax timed qualifying, April 2026",
+          "conditions": "Dry / sunny",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rhkc/e/371149/s/766587"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "34.677s",
+          "context": "RHKC Round 3 Senior Rotax timed qualifying, April 2026",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/rhkc/e/371149"
+        }
+      ]
+    },
+    {
+      "name": "Dunkeswell Raceway",
+      "reviewedAt": "2026-06-22",
+      "referenceTimes": [
+        {
+          "className": "Micro Max / Cadet",
+          "lapTime": "52.920s",
+          "context": "UKC Round 3 Dunkeswell qualifying, June 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/290410"
+        },
+        {
+          "className": "Inter Max",
+          "lapTime": "49.600s",
+          "context": "UKC Round 3 Dunkeswell Mini Inter qualifying, June 2025",
+          "conditions": "Verified result source",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/290410"
+        },
+        {
+          "className": "Junior Max",
+          "lapTime": "46.650s",
+          "context": "UKC Round 3 Dunkeswell Junior Rotax qualifying, June 2025",
+          "conditions": "Dry",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/290410/s/610587"
+        },
+        {
+          "className": "Senior Max",
+          "lapTime": "45.720s",
+          "context": "UKC Round 3 Dunkeswell Senior Rotax qualifying, June 2025",
+          "conditions": "Damp / showers",
+          "sourceLabel": "Alpha Timing",
+          "sourceUrl": "https://www.alpharacehub.com/ukc/e/290410/s/610589"
+        }
+      ]
+    }
+  ]
+}
